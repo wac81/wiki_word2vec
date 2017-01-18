@@ -15,5 +15,6 @@
 
 ##word2vec_wiki.py : create model and load model
 
+##and you can download trained moedel from http://pan.baidu.com/s/1bpbzt6n    password:62i2
 
 thank you and enjoy it!
