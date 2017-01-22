@@ -1,4 +1,4 @@
-#We create word2vec model use wiki Text like this https://dumps.wikimedia.org/zhwiki/20161001/zhwiki-20161001-pages-articles-multistream.xml.bz2
+#We create pretrain word2vec model use wiki Text like this https://dumps.wikimedia.org/zhwiki/20161001/zhwiki-20161001-pages-articles-multistream.xml.bz2
 
 ##
 
